@@ -7,28 +7,34 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**<<Título>>**
+-------
+**Comportamiento esperado:**
+Descripción del funcionamiento correcto del sistema en el escenario planteado.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+----
+**Comportamiento actual:**
+Descripción del error o incidencia identificada en el funcionamiento del sistema.
+
+---
+**Pasos para reproducir:**
+Pasos para reproducir la incidencia:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Evidencias**
+Vídeos o imagenes que ayuden a evidenciar y entender la incidencia.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-
-**Environment(please complete the following information):**
+---
+**Contexto(Ambiente de ejecución)**
+Descripción de las características del ambiente en el que se genera la incidencia.
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+---
+**Información adicional**
+Datos a tener en cuenta en la revisión de la incidencia.
